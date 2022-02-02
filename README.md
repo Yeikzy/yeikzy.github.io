@@ -3,7 +3,7 @@
 *Self hosted VueJS based Discord like web-profile*
 
 <div align="center">
-   <a href="https://discord.gg/W7cY7FH" target="_blank"><img src="https://github.com/Yeikzy/yeikzy.github.io/blob/main/workflows/assets.png" align="center" /></a>
+   <a href="https://discord.gg/ErwAkKhMsR" target="_blank"><img src="https://github.com/Yeikzy/yeikzy.github.io/blob/main/workflows/assets.png" align="center" /></a>
 
 </div>
 
