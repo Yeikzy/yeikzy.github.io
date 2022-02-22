@@ -8,7 +8,7 @@ const config = {
     BADGES: [
         { id: "HypeSquad Brillance", image: "assets/img/hypesquad_brillance.svg" },
         { id: "Nitro Sub", image: "assets/img/nitro_sub.svg" },
-        { id: "Nitro Sub 2", image: "assets/img/nitro2.svg" },
+        { id: "Nitro Sub 2", image: "assets/img/nitro_sub2.svg" },
     ],
 
     PROJECTS: [
