@@ -14,7 +14,7 @@ const config = {
     PROJECTS: [
         { id: "project-1", image: "assets/img/placeholder1.png", link: "https://discord.gg/ErwAkKhMsR", name: "Yeikzy" },
         { id: "project-3", image: "assets/img/placeholder3.png", link: "https://discord.gg/tendo", name: "Yloh" },
-        { id: "project-4", image: "assets/img/placeholder4.png", link: "https://discord.gg/6zmKxMgveS", name: "Verse" },
+        { id: "project-4", image: "assets/img/placeholder4.png", link: "https://discord.gg/6zmKxMgveS", name: "Arobase" },
     ],
 
     SOCIALS: [
