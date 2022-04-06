@@ -12,9 +12,9 @@ const config = {
     ],
 
     PROJECTS: [
-        { id: "project-1", image: "assets/img/placeholder1.png", link: "https://discord.gg/QW4fSZJW4N", name: "Yeikzy" },
+        { id: "project-1", image: "assets/img/placeholder1.png", link: "https://discord.gg/ErwAkKhMsRt", name: "Yeikzy" },
         { id: "project-2", image: "assets/img/placeholder2.png", link: "https://discord.gg/tendo", name: "Yloh" },
-        { id: "project-3", image: "assets/img/placeholder3.png", link: "https://discord.gg/6zmKxMgveS", name: "Connect" },
+        { id: "project-3", image: "assets/img/placeholder3.png", link: "https://github.com/Yeikzy", name: "Connect" },
     ],
 
     SOCIALS: [
